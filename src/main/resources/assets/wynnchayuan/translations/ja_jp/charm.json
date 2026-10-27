@@ -30,7 +30,7 @@
   },
   "charm#0002": {
    "src": "Charm of the Stone",
-   "dst": "石のチャーム",
+   "dst": "岩石のチャーム",
    "role": "name",
    "kind": "term",
    "ctx": [
@@ -48,7 +48,7 @@
   },
   "charm#0004": {
    "src": "Charm of the Worm",
-   "dst": "ワームのチャーム",
+   "dst": "ミミズのチャーム",
    "role": "name",
    "kind": "term",
    "ctx": [
