@@ -346,7 +346,7 @@
   },
   "King's Recruit#033": {
    "src": "I guess the war hasn't made it this far. This is what we'll be fighting to protect.",
-   "dst": "戦争はまだここまで来てないみたいだな。俺たちはこれを守るために戦うんだ！",
+   "dst": "戦争はまだここまで来てないみたいだな。僕たちはこれを守るために戦うんだ！",
    "role": "desc",
    "kind": "dialogue",
    "quest": "King's Recruit",
@@ -1013,7 +1013,7 @@
   },
   "King's Recruit#103": {
    "src": "{u}, you take the skeleton in the front. We'll handle the two zombies in the back!",
-   "dst": "{u}、前のスケルトンを頼む。後ろのゾンビ二体は俺たちがやる！",
+   "dst": "{u}、前のスケルトンを頼む。後ろのゾンビ二体は僕たちがやる！",
    "role": "desc",
    "kind": "dialogue",
    "quest": "King's Recruit",
@@ -1658,7 +1658,7 @@
   },
   "King's Recruit#170": {
    "src": "There's no use standing around here waiting for adventure to come to us! I'm getting out there and helping some people!",
-   "dst": "ここで冒険が来るのを待ってても仕方ない！俺は外に出て人助けをしてくるぜ！",
+   "dst": "ここで冒険が来るのを待ってても仕方ない！僕は外に出て人助けをしてくるぜ！",
    "role": "desc",
    "kind": "dialogue",
    "quest": "King's Recruit",
@@ -1677,7 +1677,29 @@
    "source": "capture",
    "note":"{c2}Content Book{/} , {c3}lets you track them{/}"
   },
-  "King's Recruit#172": {
+   "King's Recruit#172": {
+   "src": "There you go! I'm going to head towards {p}, at the end of the {p}. You should meet me there once you've gotten a little stronger.",
+   "dst": "よし！僕は{p}2の終点{p}1に向かうよ。もう少し強くなったらそこで会おうね！",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "King's Recruit",
+   "stage": "Stage 22",
+   "speaker": "Tasim",
+   "source": "capture",
+   "note":""
+  },
+  "King's Recruit#173": {
+   "src": "Well, see you around, {u}.",
+   "dst": "じゃあね、{u}",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "King's Recruit",
+   "stage": "Stage 22",
+   "speaker": "Tasim",
+   "source": "capture",
+   "note":""
+  },
+  "King's Recruit#174": {
    "src": "Just follow this path straight forward, and there will be a bridge up ahead.",
    "dst": "{c2}この道を{/}まっすぐ{c2}進めば{/}、先に橋がある。",
    "role": "desc",
